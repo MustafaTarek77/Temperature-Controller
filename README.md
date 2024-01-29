@@ -1,0 +1,2 @@
+The project involves implementing an embedded system using AVR microcontrollers where MCU1 controls a fan based on temperature readings and communicates with MCU2 via UART, while MCU2 manages a machine's speed and status indicators based on received messages.
+The system integrates temperature sensing, fan control, UART communication, LED indicators, servo motor control, and emergency state handling for a comprehensive embedded solution.
